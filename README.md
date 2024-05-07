@@ -8,8 +8,10 @@
 ## Unsaturated hydraulic conductivity comparison: K0 + L + hydraulic parameters from Rosetta V.1 -- VERSUS --  Ks + L = 0.5 + hydraulic parameters from Rosetta V.3
 ![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/274f0999-15aa-4fb1-9caf-e8f47f583957)
 
-
-## Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
+## Steps in getting Hydraulic conductivity for unsaturated soils:
+#### Estimate the hydraulic parameters
+#### 
+#### Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
 
 $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 
@@ -39,7 +41,7 @@ $$
 m = 1 - \frac{1} {n}
 $$
 
-This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3
+
 
 
 ![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/3b781a05-5abf-4ba0-9782-230f65226561)

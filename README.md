@@ -6,20 +6,12 @@
 #### Predict K0 from Ks obtained from Rosetta Version 3
 
 ## Unsaturated hydraulic conductivity comparison: K0 + L + hydraulic parameters from Rosetta V.1 -- VERSUS --  Ks + L = 0.5 + hydraulic parameters from Rosetta V.3
-#Plotting hydraulic conductivity values obtained from Rosetta versions 1 and 3
-import matplotlib.pyplot as plt
-
-fig = plt.figure(figsize=(8,5))
-plt.xlabel('Hydraulic conductivity_Ros.V3 [cm/day]', fontsize=12, labelpad=8)
-plt.ylabel('Hydraulic conductivity_Ros.V1 [cm/day]', fontsize=12, labelpad=8)
-plt.tick_params(axis='both', which='major', labelsize=12,pad=8)
-plt.tick_params(axis='both', which='minor', labelsize=12,pad=8)
-plt.plot(K3, K1, 'ok')
 
 ## Steps in getting Hydraulic conductivity for unsaturated soils:
+
 #### Estimate the hydraulic parameters
-#### Obtain the matric potential values
-#### Convert the matric potential values to vwc using the van Genuchten equation:s
+#### Obtain the matric potential values from '/content/drive/MyDrive/MABarbadillo/SPTProject/Rosetta/longtermmeans.csv'
+#### Convert the matric potential values to vwc using the van Genuchten equation:
 $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 
 Where:

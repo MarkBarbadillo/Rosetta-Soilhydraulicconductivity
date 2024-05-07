@@ -1,4 +1,4 @@
-## This repository enables you to generate soil  hydraulic parameters using the pedotransfer function 'Rosetta'
+## This repository enables you to generate soil  hydraulic parameters and predict unsaturated hydraulic conductivity using the pedotransfer function 'Rosetta'
 
 ### Data requirement
 Percent sand, silt, and clay, bulk density (g/cm3), and volumetric water contents at -33 and -1500 kPa

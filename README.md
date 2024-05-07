@@ -3,9 +3,9 @@
 ### Data requirement for Rosetta function
 Percent sand, silt, and clay, bulk density (g/cm3), and volumetric water contents (cm3/cm3) at -33 and -1500 kPa
 
-## Soil volumetric water content is calculated from the matric potential values using the van Genuchten equation:
+## Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
 $$
-Kg = \frac {Dg} {\int_{x_1}^{x_2}\ \frac {d(x)} {As(x)}}
+vwc = theta_r+(theta_s-theta_r)[1+(-alpha*matric potential)^{n}]^{-m}  
 $$
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3

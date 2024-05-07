@@ -1,6 +1,6 @@
 ## This repository enables you to generate soil  hydraulic parameters and predict unsaturated hydraulic conductivity (K) using the pedotransfer function 'Rosetta'
 ### Can do:
-#### Estimation of hydraulic parameters (theta_s, theta_r, alpha, n, Ks) using percent sand, silt, and clay, bulk density [g/cm3], and volumetric water contents [cm3/cm3] at -33 and -1500 kPa
+#### Estimation of hydraulic parameters (theta_s, theta_r, alpha, n, Ks) using percent sand, silt, and clay, bulk density [g/cm3], and volumetric water contents (vwc) [cm3/cm3] at -33 and -1500 kPa
 #### Comparison between hydraulic conductivity values obtained from different versions of Rosetta (V.1, 2, 3)
 #### Plotting of hydraulic conductivity values (V.1 versus V.3)
 #### Predict K0 from Ks obtained from Rosetta Version 3
@@ -10,8 +10,8 @@
 
 ## Steps in getting Hydraulic conductivity for unsaturated soils:
 #### Estimate the hydraulic parameters
-#### 
-#### Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
+#### Obtain the matric potential values
+#### Convert the matric potential values to vwc using the van Genuchten equation:
 
 $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 

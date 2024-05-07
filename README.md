@@ -17,7 +17,7 @@ $$
 $$
 
 $$
-\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\log10\ \frac{cm^3}{cm^3}]
+\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\log10(\frac{cm^3}{cm^3})]
 $$
 
 $$

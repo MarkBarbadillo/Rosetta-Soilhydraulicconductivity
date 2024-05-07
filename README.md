@@ -20,7 +20,11 @@ $$
 $$
 
 $$
-\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\log10(\frac{1}{cm})]
+\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\frac{1}{cm}]
+$$
+
+$$
+\psi_m = \text{matric\ text\{potential} [kPa]
 $$
 
 

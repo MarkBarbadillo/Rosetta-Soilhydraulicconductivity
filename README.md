@@ -11,8 +11,7 @@
 ## Steps in getting Hydraulic conductivity for unsaturated soils:
 #### Estimate the hydraulic parameters
 #### Obtain the matric potential values
-#### Convert the matric potential values to vwc using the van Genuchten equation:
-
+#### Convert the matric potential values to vwc using the van Genuchten equation:s
 $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 
 Where:

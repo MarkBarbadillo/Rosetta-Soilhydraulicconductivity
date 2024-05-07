@@ -1,7 +1,7 @@
 ## This repository enables you to generate soil  hydraulic parameters and predict unsaturated hydraulic conductivity using the pedotransfer function 'Rosetta'
 
 ### Data requirement for Rosetta function
-Percent sand, silt, and clay, bulk density (g/cm3), and volumetric water contents (cm3/cm3) at -33 and -1500 kPa
+Percent sand, silt, and clay, bulk density [\frac {g} {cm^3}], and volumetric water contents (cm3/cm3) at -33 and -1500 kPa
 
 ## Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
 $$
@@ -17,6 +17,12 @@ $$
 $$
 \theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
 $$
+
+$$
+\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
+$$
+
+
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3
 

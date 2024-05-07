@@ -41,5 +41,7 @@ $$
 #### Calculate the effective saturation (Se):
 $$Se = \frac {vwc - \theta_r} {\theta_s - \theta_r}$$
 
+#### Calculate the unsaturated hydraulic conductivity using K0 + Rosetta V.1 parameters
+
 
 ![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/3b781a05-5abf-4ba0-9782-230f65226561)

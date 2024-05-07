@@ -12,17 +12,11 @@ $$
 
 Where:
 
-$$
-\theta_r = \text{residual}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
-$$
-
-$$
-\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
-$$
-
-$$
-\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\log10(\frac{1}{cm})]
-$$
+\begin{align*}
+\theta_r &= \text{residual}\ \text{volumetric}\ \text{water}\ \text{content} [\frac{cm^3}{cm^3}] \\
+\theta_s &= \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content} [\frac{cm^3}{cm^3}] \\
+\alpha &= \text{retention}\ \text{shape}\ \text{parameter} [\log10(\frac{1}{cm})]
+\end{align*}
 
 
 

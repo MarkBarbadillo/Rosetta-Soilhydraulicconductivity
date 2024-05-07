@@ -6,7 +6,15 @@
 #### Predict K0 from Ks obtained from Rosetta Version 3
 
 ## Unsaturated hydraulic conductivity comparison: K0 + L + hydraulic parameters from Rosetta V.1 -- VERSUS --  Ks + L = 0.5 + hydraulic parameters from Rosetta V.3
-![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/274f0999-15aa-4fb1-9caf-e8f47f583957)
+#Plotting hydraulic conductivity values obtained from Rosetta versions 1 and 3
+import matplotlib.pyplot as plt
+
+fig = plt.figure(figsize=(8,5))
+plt.xlabel('Hydraulic conductivity_Ros.V3 [cm/day]', fontsize=12, labelpad=8)
+plt.ylabel('Hydraulic conductivity_Ros.V1 [cm/day]', fontsize=12, labelpad=8)
+plt.tick_params(axis='both', which='major', labelsize=12,pad=8)
+plt.tick_params(axis='both', which='minor', labelsize=12,pad=8)
+plt.plot(K3, K1, 'ok')
 
 ## Steps in getting Hydraulic conductivity for unsaturated soils:
 #### Estimate the hydraulic parameters

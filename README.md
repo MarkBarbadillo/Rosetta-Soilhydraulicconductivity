@@ -5,9 +5,7 @@
 #### Plotting of hydraulic conductivity values (V.1 versus V.3)
 #### Predict K0 from Ks obtained from Rosetta Version 3
 
-## Unsaturated hydraulic conductivity comparison: K0 + L + hydraulic parameters from Rosetta V.1 -- VERSUS --  Ks + L = 0.5 + hydraulic parameters from Rosetta V.3
-
-## Steps in getting Hydraulic conductivity for unsaturated soils:
+## Steps in getting hydraulic conductivity for unsaturated soils:
 
 #### Estimate the hydraulic parameters
 #### Obtain the matric potential values from '/content/drive/MyDrive/MABarbadillo/SPTProject/Rosetta/longtermmeans.csv'

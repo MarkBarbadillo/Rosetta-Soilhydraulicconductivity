@@ -24,7 +24,7 @@ $$
 $$
 
 $$
-\psi_m = \text{matric\ text\{potential}\ [kPa]
+\psi_m = \text{matric potential [kPa]}
 $$
 
 

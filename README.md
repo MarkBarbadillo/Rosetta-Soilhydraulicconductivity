@@ -11,9 +11,17 @@ $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 
 Where:
 
-$\theta_r = \text{residual}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]$
-$\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]$
-$\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\log10(\frac{1}{cm})]$
+$
+\theta_r = \text{residual}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
+$
+
+$
+\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
+$
+
+$
+\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\log10(\frac{1}{cm})]
+$
 
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3

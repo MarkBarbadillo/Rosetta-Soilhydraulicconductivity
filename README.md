@@ -20,7 +20,7 @@ $$
 $$
 
 $$
-\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\frac{1}{cm}]
+\alpha = \text{retention shape parameter [\frac{1}{cm}]}
 $$
 
 $$

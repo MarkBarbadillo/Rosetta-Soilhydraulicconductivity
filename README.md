@@ -13,6 +13,7 @@ Where:
 $$
 \theta_r = residual \text{volumetric} \text{water} \text{content} [\frac{cm^3}{cm^3}]
 $$
+
 $$
 \theta_s = saturated volumetric water content [\frac{cm^3}{cm^3}]
 $$

@@ -5,7 +5,7 @@ Percent sand, silt, and clay, bulk density (g/cm3), and volumetric water content
 
 ## Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:
 $$
-vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha \, \text{matric}\ \text{potential})^{n}]^{-m}
+vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}
 $$
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3

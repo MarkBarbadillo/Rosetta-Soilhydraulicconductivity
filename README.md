@@ -21,7 +21,7 @@ $$
 $$
 
 $$
-\theta_s = \text{saturated}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
+\alpha = \text{retention}\ \text{shape}\ \text{parameter}\ [\frac{1}{cm}]
 $$
 
 

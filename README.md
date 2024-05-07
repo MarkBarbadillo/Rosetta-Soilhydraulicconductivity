@@ -41,7 +41,7 @@ m = 1 - \frac{1} {n}
 $$
 
 #### Calculate the effective saturation (Se):
-
+$$Se = \frac {(vwc - \theta_r)} {\theta_s - \theta_r}$$
 
 
 ![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/3b781a05-5abf-4ba0-9782-230f65226561)

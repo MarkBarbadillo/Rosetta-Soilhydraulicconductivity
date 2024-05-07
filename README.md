@@ -11,11 +11,10 @@ $$
 Where:
 
 $$
-\theta_r = residual volumetric water content [\frac{cm^3}/{cm^3}]
+\theta_r = residual volumetric water content [\frac{cm^3}{cm^3}]
 $$
-
 $$
-\theta_s = saturated volumetric water content [\frac{cm^3}/{cm^3}]
+\theta_s = saturated volumetric water content [\frac{cm^3}{cm^3}]
 $$
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3

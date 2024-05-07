@@ -7,6 +7,7 @@ Percent sand, silt, and clay, bulk density (g/cm3), and volumetric water content
 $$
 vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}
 $$
+
 Where:
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3

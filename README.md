@@ -27,6 +27,13 @@ $$
 \psi_m = \text{matric potential [kPa]}
 $$
 
+$$
+n = \text{retention shape parameter}
+$$
+
+$$
+m = 1 - \frac{1} {n}
+$$
 
 This also compares the hydraulic parameters (theta_s, theta_r, alpha, n, Ks) and hydraulic conductivity for unsaturated soils using Rosetta Versions 1 and 3
 

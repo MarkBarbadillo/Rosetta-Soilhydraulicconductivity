@@ -40,6 +40,7 @@ $$
 m = 1 - \frac{1} {n}
 $$
 
+#### Calculate the effective saturation (Se):
 
 
 

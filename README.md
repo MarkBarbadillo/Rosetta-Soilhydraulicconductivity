@@ -12,6 +12,7 @@ $$
 
 Where:
 
+
 $$
 \theta_r = \text{residual}\ \text{volumetric}\ \text{water}\ \text{content}\ [\frac{cm^3}{cm^3}]
 $$

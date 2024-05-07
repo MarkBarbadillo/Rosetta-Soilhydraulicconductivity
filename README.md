@@ -5,6 +5,7 @@
 Percent sand, silt, and clay, bulk density [g/cm3], and volumetric water contents [cm3/cm3] at -33 and -1500 kPa
 
 ## Unsaturated hydraulic conductivity (K) Comparison: K0 + L + hydraulic parameters from Rosetta V.1 -- VERSUS --  Ks + L = 0.5 + hydraulic parameters from Rosetta V.3
+![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/274f0999-15aa-4fb1-9caf-e8f47f583957)
 
 
 ## Soil volumetric water content (vwc) is calculated from the matric potential values using the van Genuchten equation:

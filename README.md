@@ -1,5 +1,7 @@
 ## This repository enables you to generate soil  hydraulic parameters and predict unsaturated hydraulic conductivity (K) using the pedotransfer function 'Rosetta'
-  #### You can compare K values from different versions of Rosetta (i.e., 1 and 3)
+### Can do:
+  #### Comparison between hydraulic conductivity values obtained from different versions of Rosetta
+  #### 
   
 
 ### Data requirement for Rosetta function:

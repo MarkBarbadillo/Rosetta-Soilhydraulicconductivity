@@ -8,7 +8,7 @@
 ## Steps in getting hydraulic conductivity for unsaturated soils:
 
 #### Estimate the hydraulic parameters
-#### Obtain the matric potential values from '/content/drive/MyDrive/MABarbadillo/SPTProject/Rosetta/longtermmeans.csv'
+#### Obtain the matric potential values from 'longtermmeans.csv'
 #### Convert the matric potential values to vwc using the van Genuchten equation:
 $$vwc = \theta_r + (\theta_s - \theta_r) [1 + (-\alpha * \psi_m)^{n}]^{-m}$$
 
@@ -46,4 +46,3 @@ $$K = K_0 * S_e^{L} * [1-(1-S_e^{\frac{n}{n-1}}^m)]^2$$
 
 
 
-![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/3b781a05-5abf-4ba0-9782-230f65226561)

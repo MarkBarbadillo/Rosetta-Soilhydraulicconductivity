@@ -5,7 +5,7 @@
 #### 3) Plotting of hydraulic conductivity values (V.1 versus V.3)
 #### 4) Predict K0 from Ks obtained from Rosetta Version 3
 
-## Steps in getting hydraulic conductivity for unsaturated soils:
+## Steps:
 
 #### 1) Estimate the hydraulic parameters
 #### 2) Obtain the matric potential values from 'longtermmeans.csv'
@@ -41,7 +41,7 @@ $$
 #### 4) Calculate the effective saturation (Se):
 $$S_e = \frac {vwc - \theta_r} {\theta_s - \theta_r}$$
 
-#### 5) Calculate the unsaturated hydraulic conductivity using K0 + Rosetta V.1 parameters using Mualem-van Genuchten Equation:
+#### 5) Calculate the unsaturated hydraulic conductivity using K0 + Rosetta V.1 parameters using the equation:
 $$K = K_0 * S_e^{L} * [1 - (1 - S_e^{\frac{n}{n-1}})^m]^2$$
 
 Where:
@@ -50,4 +50,5 @@ $$
 L = \text{unitless emperical coefficient obtained from Rosetta V.1}
 $$
 
+#### 6) Compare the K obtained using K0 + Rosetta V.1 parameters with the K obtained using Ks + L=0.5 + Rosetta V.3 parameters
 

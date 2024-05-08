@@ -56,5 +56,5 @@ $$K(\theta) = K_s * S_e^{L} * [1 - (1 - S_e^{\frac{1}{m}})^m]^2$$
 Where:
 
 $$
-L = 0.5 \text{default value}
+L = 0.5\ \text{default value}
 $$

@@ -53,4 +53,4 @@ $$L = 0.5\ \text{(default value)}$$
 ## References
 
 Wyatt, B.M., Ochsner, T.E., Fiebrich, C.A., Neel, C.R., Wallace, D.S. (2017). Useful drainage estimates obtained from a large-scale soil moisture monitoring network by applying the unit-gradient assumption. Vadose Zone Journal 16(6): 1-15. https://doi.org/10.2136/vzj2017.01.0016
-https://github.com/usda-ars-ussl/rosetta-soil
+\text {https://github.com/usda-ars-ussl/rosetta-soil}

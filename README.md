@@ -62,7 +62,7 @@ $$
 #### 7) Plot the results:
 ##### Example: Plotting Ks from Rosetta V.3 versus K0
 
-\includegraphics[width=0.5\textwidth]{https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/ff7f9a73-953e-4649-bc53-494671037c4a}
+![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/67f6fb99-ba92-44b4-9654-7dce802612dd)
 
 
 ## References

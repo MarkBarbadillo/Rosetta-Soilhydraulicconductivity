@@ -60,4 +60,7 @@ L = 0.5\ \text{(default value)}
 $$
 
 #### 7) Plot the results:
-##### Example:
+##### Example: Plotting Ks from Rosetta V.3 versus K0
+
+![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/ff7f9a73-953e-4649-bc53-494671037c4a)
+

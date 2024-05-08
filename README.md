@@ -58,3 +58,6 @@ Where:
 $$
 L = 0.5\ \text{(default value)}
 $$
+
+#### 7) Plot the results:
+##### Example:

@@ -64,3 +64,7 @@ $$
 
 ![image](https://github.com/MarkBarbadillo/Rosetta-Soilhydraulicconductivity/assets/157748709/ff7f9a73-953e-4649-bc53-494671037c4a)
 
+
+## References
+
+Wyatt, B.M., Ochsner, T.E., Fiebrich, C.A., Neel, C.R., Wallace, D.S. (2017). Useful drainage estimates obtained from a large-scale soil moisture monitoring network by applying the unit-gradient assumption. Vadose Zone Journal 16(6): 1-15. https://doi.org/10.2136/vzj2017.01.0016

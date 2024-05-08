@@ -35,18 +35,14 @@ $$K(S_e) = K_0 * S_e^{L} * [1 - (1 - S_e^{\frac{n}{n-1}})^m]^2$$
 
 Where:
 
-$$
-L = \text{unitless emperical coefficient obtained from Rosetta V.1}
-$$
+$$L = \text{unitless emperical coefficient obtained from Rosetta V.1}$$
 
 #### 6) Compare the K obtained using K0 + Rosetta V.1 parameters with the K obtained using Ks + L=0.5 + Rosetta V.3 parameters:
 $$K(\theta) = K_s * S_e^{L} * [1 - (1 - S_e^{\frac{1}{m}})^m]^2$$
 
 Where:
 
-$$
-L = 0.5\ \text{(default value)}
-$$
+$$L = 0.5\ \text{(default value)}$$
 
 #### 7) Plot the results:
 ##### Example: Plotting Ks from Rosetta V.3 versus K0

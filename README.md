@@ -17,22 +17,10 @@ Where:
 
 $$\theta_r = \text{residual volumetric water content} [\frac{cm^3}{cm^3}]$$
 $$\theta_s = \text{saturated volumetric water content} [\frac{cm^3}{cm^3}]$$
-
-$$
-\alpha = \text{retention shape parameter} [\frac{1}{cm}]
-$$
-
-$$
-\psi_m = \text{matric potential [kPa]}
-$$
-
-$$
-n = \text{retention shape parameter}
-$$
-
-$$
-m = 1 - \frac{1} {n}
-$$
+$$\alpha = \text{retention shape parameter} [\frac{1}{cm}]$$
+$$\psi_m = \text{matric potential [kPa]}$$
+$$n = \text{retention shape parameter}$$
+$$m = 1 - \frac{1} {n}$$
 
 #### 4) Calculate the effective saturation (Se):
 $$S_e = \frac {vwc - \theta_r} {\theta_s - \theta_r}$$

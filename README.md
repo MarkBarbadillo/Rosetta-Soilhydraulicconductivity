@@ -46,7 +46,7 @@ $$K = K_0 * S_e^{L} * [1 - (1 - S_e^{\frac{n}{n-1}})^m]^2$$
 
 Where:
 
-L = \text{unitless emperical coefficient obtained from Rosetta V.1}
+\text{L} = \text{unitless emperical coefficient obtained from Rosetta V.1}
 
 
 

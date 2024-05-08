@@ -44,5 +44,9 @@ $$S_e = \frac {vwc - \theta_r} {\theta_s - \theta_r}$$
 #### 5) Calculate the unsaturated hydraulic conductivity using K0 + Rosetta V.1 parameters using Mualem-van Genuchten Equation:
 $$K = K_0 * S_e^{L} * [1 - (1 - S_e^{\frac{n}{n-1}})^m]^2$$
 
+Where:
+
+L = \text{unitless emperical coefficient obtained from Rosetta V.1}
+
 
 

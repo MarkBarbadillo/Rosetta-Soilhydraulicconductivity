@@ -51,10 +51,10 @@ $$L = 0.5\ \text{(default value)}$$
 
 ## References
 
-[1] Wyatt, B.M., Ochsner, T.E., Fiebrich, C.A., Neel, C.R., Wallace, D.S. (2017). Useful drainage estimates obtained from a large-scale soil moisture monitoring network by applying the unit-gradient assumption. Vadose Zone Journal 16(6): 1-15. https://doi.org/10.2136/vzj2017.01.0016
+[1] Version 1: Schaap, M.G., Leij, F.J., van Genuchten, M.T., 2001. ROSETTA: A computer program for estimating soil hydraulic parameters with hierarchical pedotransfer functions. Journal of Hydrology 251, 163–176. https://www.sciencedirect.com/science/article/abs/pii/S0022169401004668
 
-[2] Version 1: Schaap, M.G., Leij, F.J., van Genuchten, M.T., 2001. ROSETTA: A computer program for estimating soil hydraulic parameters with hierarchical pedotransfer functions. Journal of Hydrology 251, 163–176. https://www.sciencedirect.com/science/article/abs/pii/S0022169401004668
+[2] Version3: Zhang, Y., Schaap, M.G., 2017. Weighted Recalibration of the Rosetta Pedotransfer Model with Improved Estimates of Hydraulic Parameter Distributions and Summary Statistics (Rosetta3). Journal of Hydrology 547, 39–53. https://www.sciencedirect.com/science/article/abs/pii/S0022169417300057
 
-[3] Version3: Zhang, Y., Schaap, M.G., 2017. Weighted Recalibration of the Rosetta Pedotransfer Model with Improved Estimates of Hydraulic Parameter Distributions and Summary Statistics (Rosetta3). Journal of Hydrology 547, 39–53. https://www.sciencedirect.com/science/article/abs/pii/S0022169417300057
+[3] Wyatt, B.M., Ochsner, T.E., Fiebrich, C.A., Neel, C.R., Wallace, D.S. (2017). Useful drainage estimates obtained from a large-scale soil moisture monitoring network by applying the unit-gradient assumption. Vadose Zone Journal 16(6): 1-15. https://doi.org/10.2136/vzj2017.01.0016
 
 [4] https://github.com/usda-ars-ussl/rosetta-soil
